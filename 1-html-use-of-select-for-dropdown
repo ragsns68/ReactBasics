@@ -1,0 +1,10 @@
+<div id="root">
+  <label>City :</label>
+  <select>
+    <option value="Ajmer">Ajmer</option>
+    <option value="Chittorgarh">Chittorgarh</option>
+    <option value="Udaipur">Udaipur</option>
+    <option value="Ilkal">Ilkal</option>
+    <option value="Bangalore">Bangalore</option>
+  </select>
+</div>
